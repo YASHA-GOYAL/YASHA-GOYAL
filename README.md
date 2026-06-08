@@ -6,9 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=CS+Engineering+Student;Cloud+%26+DevOps+Enthusiast;Building+on+AWS+%7C+Kubernetes+%7C+Terraform;Always+learning+something+new+%F0%9F%9A%80)](https://git.io/typing-svg)
  
 <br/>
-![Profile Views](https://komarev.com/ghpvc/?username=YASHA-GOYAL&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/yashagoyal?style=for-the-badge&color=58A6FF&labelColor=0d1117)](https://github.com/YASHA-GOYAL)
+
  
 </div>
 ---
